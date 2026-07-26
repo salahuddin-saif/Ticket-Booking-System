@@ -4,11 +4,11 @@
  * ======================================================================
  * PROJECT: Online Ticket Booking System
  * TEAM MEMBERS:
- *   1. Md. Salah Uddin - Team Lead, Core Architecture
- *   2. Sadia Akter - User Management & Authentication
- *   3. Rakib Hasan - Ticket & Seat Management
- *   4. Tania Sultana - Booking & Payment System
- *   5. Imran Hossain - File Handling & Reports
+ *   1. Md. Salah Uddin - , Core Architecture
+ *   2.  - User Management & Authentication
+ *   3.  - Ticket & Seat Management
+ *   4.  - Booking & Payment System
+ *   5.  - File Handling & Reports
  * ======================================================================
  */
 
