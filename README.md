@@ -122,7 +122,7 @@ TicketBooking/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ticket-booking-system.git
+git clone https://github.com/salahuddin-saif/Ticket-Booking-System.git
 cd ticket-booking-system
 ```
 
