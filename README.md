@@ -346,18 +346,24 @@ text
 2,John Doe,johndoe,pass123,customer,1
 tickets.txt Format
 text
+```
 1,1,Dhaka,Naogaon,15-12-2025,08:00 AM,575.00,40,4,10,40,1
 A1,A2,A3,A4,B1,B2,...
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+```
 routes.txt Format
 text
+```
 1,Dhaka-Naogaon Route,Bus,2.50,8,1
 Dhaka,0.00,0.00,1.00,0
 Abdullahpur,15.00,0.50,1.00,1
+```
 ...
 bookings.txt Format
 text
+```
 1,1,2,John Doe,A1,B2,C3,3,1725.00,15-12-2025,confirmed,bKash,BKASH-123-456,Dhaka,Naogaon,230.00
+```
 🏗️ Data Structures
 Core Structures
 ```
