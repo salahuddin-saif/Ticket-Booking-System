@@ -261,12 +261,13 @@ View seating layout:
 
 text
 Seating Layout (O=Available, X=Booked):
+```
        1    2    3    4
      ---------------------
 A  |  A1(O) A2(O) A3(O) A4(O)
 B  |  B1(O) B2(O) B3(O) B4(O)
 C  |  C1(O) C2(O) C3(O) C4(O)
-
+```
 Legend: (O) = Available, (X) = Booked
 Available Seats: 12 / 12
 Enter seat numbers (e.g., A1, B2, C3 or A1 B2 C3)
