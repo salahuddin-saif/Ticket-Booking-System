@@ -106,6 +106,7 @@ A comprehensive console-based Ticket Booking System written in **ANSI C (C99)**.
 ---
 
 ## 📁 Project Structure
+```
 
 TicketBooking/
 ├── cc.c # Main program file (complete system)
@@ -113,7 +114,7 @@ TicketBooking/
 ├── tickets.txt # Ticket data (auto-generated)
 ├── routes.txt # Route data (auto-generated)
 └── bookings.txt # Booking data (auto-generated)
-
+```
 text
 
 ### File Details
